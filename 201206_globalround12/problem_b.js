@@ -1,3 +1,4 @@
+// DNF
 function distance(x,y) {
     return [Math.abs(parseInt(x[0]) - parseInt(y[0])), Math.abs(parseInt(x[1]) - parseInt(y[1]))]
 }
