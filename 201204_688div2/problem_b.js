@@ -1,4 +1,4 @@
-
+// DNF
 function sum(arr) {
     let result = 0;
     for (let a of arr) {
