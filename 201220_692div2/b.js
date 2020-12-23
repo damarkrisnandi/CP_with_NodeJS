@@ -1,3 +1,4 @@
+// DNF
 function lcm(input_array) {
     let r1 = 0, r2 = 0;
        let l = input_array.length;
